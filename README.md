@@ -27,7 +27,7 @@
 
 ---
 
-### 📫 Let's Connect:
+### 🌐 Connect with Me:
 
 <p align="center">
   <a href="https://github.com/rootinj" target="_blank">
@@ -46,9 +46,25 @@
 ### 🎥 Fun Fact:
 > “Cinematography and coding have something in common – they both tell stories, just in different frames of time.”
 
+---
+
+### 📊 GitHub Stats:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rootinj&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootinj&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🚀 Animation Section:
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rootinj&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rootinj&theme=radical&margin-w=15&margin-h=15" alt="Trophy Section" />
 </p>
 
 ---
