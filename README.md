@@ -28,8 +28,8 @@
 
 I am a recent **BCA Graduate** passionate about building scalable software and responsive web applications. My academic background has provided me with a strong foundation in **software engineering, database management, and object-oriented programming**. I am currently looking for opportunities to contribute to open-source projects and grow as a developer.
 
-* 🔭 I’m currently working on **[Your Latest Project Name]**
-* 🌱 I’m currently learning **Advanced React & Cloud Computing**
+
+* 🌱 I’m currently learning **Gen AI & Cloud Computin**
 * 👯 I’m looking to collaborate on **Open Source Web Projects**
 * 💬 Ask me about **Java, Python, and Web Development**
 
