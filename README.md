@@ -66,9 +66,9 @@ I am a recent **BCA Graduate** passionate about building scalable software and r
 
 | **Project** | **Description** | **Tech Stack** |
 | :--- | :--- | :--- |
-| **[Project Name 1]** | A brief description of your major final year project or best work. | `Java` `MySQL` |
-| **[Project Name 2]** | A responsive website or web application you built. | `React` `Node.js` |
-| **[Project Name 3]** | A utility script or mobile application. | `Python` `Flutter` |
+|  | A brief description of your major final year project or best work. | `Java` `MySQL` |
+|  | A responsive website or web application you built. | `React` `Node.js` |
+|  | A utility script or mobile application. | `Python` `Flutter` |
 
 ---
 
