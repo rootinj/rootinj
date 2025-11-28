@@ -1,4 +1,7 @@
-<!-- Profile Header -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" />
+</p>
+
 <h1 align="center">Hi, I'm <strong>Rootinj</strong> 👋</h1>
 
 <h3 align="center">
@@ -75,8 +78,6 @@ BCA Graduate • Web Development & UI/UX • Learning Gen AI & Databases
 
 ## 📂 Featured Projects
 
-> These are some of the public projects from my GitHub. More coming as I learn Gen AI & backend!
-
 - 🚀 **[PW-skills-Clone-Using-Tailwind-CSS](https://github.com/rootinj/PW-skills-Clone-Using-Tailwind-CSS)**  
   A homepage clone built using **Tailwind CSS**, focusing on responsive layout and modern UI.
 
@@ -88,8 +89,6 @@ BCA Graduate • Web Development & UI/UX • Learning Gen AI & Databases
 
 - 🌐 **[testCapstone](https://github.com/rootinj/testCapstone)**  
   A basic project setup used for practicing and testing frontend concepts.
-
-_(You can reorder or replace these with any other repos you prefer.)_
 
 ---
 
@@ -107,7 +106,6 @@ _(You can reorder or replace these with any other repos you prefer.)_
 
 ## 🤝 Connect With Me
 
-<!-- Replace these placeholders with your actual links when ready -->
 <p>
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
