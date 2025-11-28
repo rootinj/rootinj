@@ -1,16 +1,14 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007bff&height=200&section=header&text=Hello%20World!&fontSize=70&fontColor=ffffff" width="100%"/>
 
-<h1 align="center">Hi, I'm <strong>Rootinj</strong> 👋</h1>
+  <h1>Hi there, I'm <a href="https://github.com/rootinj">Rootinj</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  
+  <h3>BCA Graduate • Web Development & UI/UX • Learning Gen AI & Databases</h3>
 
-<h3 align="center">
-BCA Graduate • Web Development & UI/UX • Learning Gen AI & Databases
-</h3>
-
-<p align="center">
-  <em>"Designing solutions with clean code and clean UI."</em>
-</p>
+  <p>
+    <em>"Designing solutions with clean code and clean UI."</em>
+  </p>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-BCA%20Graduate-1976d2?style=for-the-badge" />
@@ -94,34 +92,28 @@ BCA Graduate • Web Development & UI/UX • Learning Gen AI & Databases
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rootinj&show_icons=true&theme=material-palenight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootinj&layout=compact&theme=material-palenight" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rootinj&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a" alt="rootinj's stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootinj&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a" alt="Top Languages" />
+</div>
 
 ---
 
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/your-insta" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/your-insta">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  Thanks for visiting my profile! ⭐  
-  <br />
-  <sub>Actively learning • Actively building • Actively improving</sub>
-</p>
+<div align="center">
